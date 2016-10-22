@@ -44,7 +44,6 @@ a:hover {
     }
 }
 
-
 /**************************
 *******HEADER STYLE*******
 **************************/
@@ -52,7 +51,6 @@ a:hover {
 .header {}
 
 .header-top {
-    background: url("../img/bg_header.jpg") no-repeat center center / cover;
     position: relative;
 }
 
@@ -73,7 +71,7 @@ a:hover {
 
 .logo h1 {
     color: #fff;
-    font-size: 70px;
+    font-size: 100px;
     font-weight: bold;
     text-shadow: 4px 4px 2px #000;
     font-family: 'Acme', sans-serif;
@@ -81,7 +79,7 @@ a:hover {
 
 .logo h2 {
     color: #fff;
-    font-size: 40px;
+    font-size: 45px;
     text-shadow: 4px 4px 2px #000;
     font-family: 'Acme', sans-serif;
 }
